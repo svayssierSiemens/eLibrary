@@ -16,5 +16,6 @@ public class BookTest extends TestCase {
         assertEquals("Unexpected book publisher", publisher, book.getPublisher());
         assertEquals("Unexpected book publication year", year, book.getPublicationYear());
     }
+    
 
 }
