@@ -50,8 +50,10 @@ public class Book {
      * Returns publication year of this book.
      */
     public int getPublicationYear() {
-        return this.publicationYear;
+        return this.publicationyear;
     }
+	
+    
     
 }
 
