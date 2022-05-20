@@ -62,7 +62,7 @@ public class Library {
     }
     
     private boolean matches(String s, String word) {
-        return (s != null) && s.indexOf(word) >= 0;
+        return (s != null) && s.indexOf(word) >= 1;
     }
     
 }
