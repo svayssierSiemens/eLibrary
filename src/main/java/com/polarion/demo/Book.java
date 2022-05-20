@@ -25,7 +25,7 @@ public class Book {
 
     /**
      * Returns title of this book.
-	 * @wi.implements EL-108
+	 * @wi.implements LJ-108
      */
     public String getTitle() {
         return this.title;
@@ -33,7 +33,7 @@ public class Book {
     
     /**
      * Returns author of this book.
-	 * @wi.implements EL-115
+	 * @wi.implements LJ-115
      */
     public String getAuthor() {
         return this.author;
