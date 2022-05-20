@@ -16,6 +16,7 @@ public class Example {
             for (int i=0; i<results.length; i++)
                 System.out.println(results[i].getTitle());
         }
+        
     }
     
 }
